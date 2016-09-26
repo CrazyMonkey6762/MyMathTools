@@ -1,9 +1,9 @@
-package org.stone.RadixConversion;
+package org.stone6762.RadixConversion;
 
 import java.math.BigInteger;
 
 /**  
- * @ClassName_MyTest
+ * @ClassName_MyTest进制转换
  * @author_Stone6762  
  * @CreationTime_2016年9月26日 下午7:58:21
  * @Description_
