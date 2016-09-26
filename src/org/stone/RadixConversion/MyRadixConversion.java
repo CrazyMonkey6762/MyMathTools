@@ -1,4 +1,4 @@
-package org.stone.radix;
+package org.stone.RadixConversion;
 
 import java.math.BigInteger;
 
@@ -8,7 +8,7 @@ import java.math.BigInteger;
  * @CreationTime_2016年9月26日 下午7:58:21
  * @Description_
  */
-public class MyTest {
+public class MyRadixConversion {
 
 	/**
 	 * 
